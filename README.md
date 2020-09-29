@@ -4,7 +4,7 @@ First mission from my lecturer.
 I learn about flexible container to set ratio for each container, how to beautify the background with gradient, how to make row and column, how to make scrollable text with ListView, and so on. 
 
 And here's the result.
-https://discordapp.com/channels/706898795325030520/706898795325030523/760447293790355479
+https://cdn.discordapp.com/attachments/706898795325030523/760447293589291018/unknown.png
 
 ## Getting Started
 
